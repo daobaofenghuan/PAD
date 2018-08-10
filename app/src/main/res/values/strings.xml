@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">智慧空气</string>
+    <item name="tag_view_hold" type="id" />
+    <string name="updatecontent">1.增加新的UI\n2.修改部分BUG  </string>
+    <string name="custom_content_text">自定义通知栏进度:%d%%/100%%</string>
+    <string name="update_title">有新版本需要升级</string>
+</resources>

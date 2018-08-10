@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="30dp"
+            android:layout_marginLeft="50dp"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/im1"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/bg_secen_bt" />
+
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/transparent"
+            android:focusable="true"
+
+            android:text="介绍"
+            android:textColor="@color/holo_blue_bright" />
+        <RelativeLayout
+            android:layout_width="30dp"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/im2"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:visibility="gone"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/bg_secen_bt" />
+
+        </RelativeLayout>
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/transparent"
+            android:text="概览图"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/main_frame_layouts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    </FrameLayout>
+
+
+</LinearLayout>

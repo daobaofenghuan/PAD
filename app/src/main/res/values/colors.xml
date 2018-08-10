@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="actionbar_color">#3FBA91</color>
+
+    <color name="titlestrip_background_color">#DEDEDE</color>
+    <color name="titlestrip_text_color">#999999</color>
+
+    <color name="item_border_color">#666666</color>
+    <color name="item_default_color">#EEEEEE</color>
+    <color name="item_pressed_color">#CCCCCC</color>
+    <color name="item_activated_color">#77CEEE</color>
+    <color name="green_99cc00">#99cc00</color>
+    <color name="green_bright">#00FF00</color>
+    <color name="rectangle">#FF9900</color>
+    <color name="windowBackground">#DDDDDD</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparency">#00000000</color>
+
+    <color name="tab_unselected_text_color">#888888</color>
+    <color name="chat_freely_tab_unselected_text_color">#242424</color>holo_blue_bright
+    <color name="layout_bg">#f1f3f5</color>
+    <color name="route_divider_color">#56e990</color>
+    <color name="orange">#e1531f</color>
+    <color name="text_color">#333333</color>
+    <color name="color_666">#666666</color>
+    <color name="color_555">#555555</color>
+    <color name="color_999">#999999</color>
+    <color name="color_888">#888888</color>
+    <color name="transparent">#00000000</color>
+    <color name="divider_color">#eae7e5</color>
+    <color name="left_color">#f88f65</color>
+    <color name="right_color">#f86f39</color>
+    <color name="lv">#AFD485</color>
+    <color name="color_f6">#f6f6f6</color>
+
+
+    <!--个人中心颜色-->
+    <color name="me_backdrop">#FFFFFF</color>
+    <color name="me__feedback_backdrop">#FAFAFA</color>
+    <color name="me__feedback_fint">#2399FD</color>
+
+    <color name="me_deep_colour">#242424</color>
+    <color name="me_tint">#999999</color>
+    <color name="me_view">#F1F1F1</color>
+    <color name="trans">#00000000</color>
+
+    <color name="ccloudmi_ios_alertdialog_line">#c6c6c6</color>
+    <color name="ccloudmi_ios_actionsheet_blue">#037BFF</color>
+    <color name="ccloudmi_ios_actionsheet_red">#FD4A2E</color>
+    <color name="ccloudmi_ios_actionsheet_gray">#8F8F8F</color>
+    <color name="ripple">#F06292</color>
+    <color name="accent">#E91E63</color>
+    <color name="accent_pressed">#C2185B</color>
+    <color name="green">#f2f3f5</color>
+    <color name="serch_background">#e6e6e6</color>
+    <color name="background">#eeeeee</color>
+    <color name="xian">#dddddd</color>
+    <color name="ym_green">#6bc744</color>
+    <color name="ym_orange">#ffa837</color>
+    <color name="ym_gray_q">#999</color>
+    <color name="ym_gray_s">#9c9c9c</color>
+    <color name="ym_black">#000000</color>
+    <color name="result_view">#f8f8f8</color>
+    <color name="ym_blue">#20C9A8</color>
+    <color name="ym_pink">#ff6e6e</color>
+    <color name="zi_ti">#666666</color>
+    <color name="zi_ti_qian">#999999</color>
+    <color name="popup_main_background">#b0000000</color>
+    <color name="choose_eara_item_press_color">#f4f4f4</color>
+    <color name="no_color">#00000000</color>
+
+
+    <color name="list_itease_secondary_color">#888888</color>
+    <color name="list_itease_primary_color">#000</color>
+    <color name="list_item_secondary_color">#888888</color>
+    <color name="list_item_primary_color">#000</color>
+
+    <color name="app_overall">#FF3600</color>
+    <color name="SSBJ">#F9F9F9</color>
+    <color name="emojicon_tab_selected">#D9D9D9</color>
+    <color name="emojicon_tab_nomal">#ffffff</color>
+
+    <color name="greens">#f9f9f9</color>
+
+
+    <color name="background_tab_pressed">#FFFFFF</color>
+    <color name="ba">#B7B7B7</color>
+    <color name="dark">#4f4f4f</color>
+    <color name="gold">#d78f2f</color>
+
+    <color name="text">#252525</color>
+    <color name="gray">#9c9c9c</color>
+    <color name="lightgray">#a0a0a0</color>
+    <color name="darkgray">#7b7b7b</color>
+    <color name="dimgray">#5b5b5b</color>
+    <color name="red">#ff0000</color>
+    <color name="pink">#f76d6d</color>
+    <color name="blue">#0000ff</color>
+    <color name="brown">#f2af19</color>
+    <color name="brown2">#e5e5e5</color>
+    <color name="btn_login_press">#a83a3a</color>
+    <color name="btn_login_normal">#f15353</color>
+    <color name="btn_login_disabled">#e1e1e3</color>
+    <color name="voip_interface_text_color">#bababa</color>
+
+    <color name="bacground_login_disabled">#f8f8f8</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="primary_light">#C8E6C9</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="light_gold">#ccca6e</color>
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="grid_state_focused">#80000000</color>
+    <color name="expand_popup_background">#b0000000</color>
+    <color name="expand_item_color">#f4f4f4</color>
+    <color name="ui_base_gray">#DDDBDB</color>
+    <color name="trantracent_wode">#55000000</color>
+    <color name="deep_transparent">#bb000000</color>
+    <color name="grey_text_color_normal">#8A8A8A</color>
+    <color name="grey_line_bg">#E4E4E4</color>
+    <color name="original_border_color">#F18459</color>
+    <color name="grey_normal_bg">#EEEEEE</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="blue_dark">#1983d1</color>
+    <color name="blue_black">#1673b8</color>
+    <color name="color_808080">#808080</color>
+    <color name="color_CCCCCC">#CCCCCC</color>
+    <color name="bg_line">#e5e5e5</color>
+    <color name="color_black">#000000</color>
+    <color name="app_color">#ff6cb506</color>
+
+    <color name="color_comment_bg">#CECFD0</color>
+    <color name="color_comment_border">#CECFD0</color>
+    <color name="color_send_btn">#28B5EB</color>
+    <color name="actionbar_bg">#FAFAFA</color>
+    <color name="window_bg">#F5F5F5</color>
+
+
+    <color name="running">#00000000</color>
+    <!-- 文字用色-->
+    <color name="text1_white">#ffffff</color>
+
+    <color name="text_color_a0b3d6">#a0b3d6</color>
+    <color name="bg_f6f7f9">#f6f7f9</color>
+    <color name="bg_edf3fa">#edf3fa</color>
+    <color name="bg2_light_white">#f9f9f9</color>
+    <color name="bg3_light_gray">#f2f2f2</color>
+    <!-- 背景用色 -->
+    <color name="bg1_white">#ffffff</color>
+    <color name="bg5_blue">#1e78be</color>
+    <color name="bg4_dark_blackish_green">#29343f</color>
+    <color name="text_color_1e78be">#1e78be</color>
+    <color name="text5_black">#333333</color>
+    <color name="text6_blue">#1e78be</color>
+    <color name="text7_red">#c42237</color>
+
+    <color name="circle_red_cd3a33">#cd3a33</color>
+    <color name="circle_bule_bbd4e7">#bbd4e7</color>
+
+
+    <color name="dengji_you">#00B050</color>
+    <color name="dengji_liang">#ebeb0a</color>
+    <color name="dengji_qingdu">#FFC000</color>
+    <color name="dengji_zongdu">#FF0000</color>
+    <color name="dengji_zhongdus">#7A30A0</color>
+    <color name="dengji_yanzhong">#990000</color>
+
+    <color name="qingxin">#00B050</color>
+    <color name="shushi">#00B0F0</color>
+    <color name="zhongdeng">#FFC000</color>
+    <color name="cha">#BE0A0A</color>
+    <color name="leng">#00F0FF</color>
+    <color name="wdshushi">#64D13C</color>
+    <color name="pianre">#FFC000</color>
+    <color name="re">#FF0000</color>
+
+    <color name="ganzao">#FFC000</color>
+    <color name="sdshushi">#00B0F0</color>
+    <color name="yiren">#00B050</color>
+    <color name="chaoshi">#990000</color>
+
+
+    <color name="jiankang">#00B050</color>
+    <color name="anquan">#00B0F0</color>
+    <color name="wuran">#FFC000</color>
+    <color name="yanzhongwuran">#990000</color>
+</resources>

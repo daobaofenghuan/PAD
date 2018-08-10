@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_weight="5"
+
+        android:layout_height="wrap_content">
+
+        <com.superplayer.library.SuperPlayer
+             android:visibility="gone"
+            android:id="@+id/view_super_player"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="40dp"
+            android:layout_height="match_parent">
+
+        </com.superplayer.library.SuperPlayer>
+        <com.youth.banner.Banner
+            android:id="@+id/banner"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="40dp"
+            android:layout_height="match_parent" />
+
+
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_weight="2"
+        android:layout_marginTop="30dp"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="38dp"
+            android:layout_margin="10dp"
+            android:textSize="15dp"
+            android:text="“智创城”意为智慧创新之城，是在凸显科技智慧对城市更新贡献度的基础上，进一步强调和突出创新的作用。“智”体现在“智慧、智能、智力”的集聚融合，“创”体现在理念创新、科技创新、管理创新、制度创新的系统集成。桃浦智创城立足“科创、智能、智造一体化”的目标定位，将打造上海西北中心城区具有引领性的现代化城区，建成以智慧城市为核心竞争力的上海建设卓越全球城市的功能集聚区，以集成创新为鲜明特色的上海建设全球科创中心的重要承载区，成为上海中心城区转型升级的示范区。 "
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/textView10"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="121dp"
+            android:text="TextVidddddddddddddddddddddddddddddddddddddddddddddddddddew"
+            android:textColor="@color/white"
+            android:layout_alignRight="@+id/textView10" />
+    </RelativeLayout>
+
+
+</LinearLayout>

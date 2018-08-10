@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="50dp"
+    android:focusable="true"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:id="@+id/re"
+        android:layout_width="0dp"
+        android:layout_weight="9"
+        android:layout_height="50dp"
+        android:background="@drawable/lc">
+        <RelativeLayout
+            android:id="@+id/rl4"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+
+            android:paddingRight="25dp"
+            >
+
+            <demo.union.e.qq.com.tv.ui.MyGridView
+                android:id="@+id/gv_images"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:horizontalSpacing="2dp"
+                android:listSelector="@null"
+                android:numColumns="4"
+                android:stretchMode="columnWidth"
+                android:verticalSpacing="2dp" >
+            </demo.union.e.qq.com.tv.ui.MyGridView>
+        </RelativeLayout>
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/r2"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="50dp"
+       >
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:textColor="@color/white"
+            android:text="2222" />
+    </RelativeLayout>
+
+</LinearLayout>
