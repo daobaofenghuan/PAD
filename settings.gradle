@@ -1,0 +1,1 @@
+include ':app', ':library', ':jgraph', ':ijkplayerlibrary', ':superplayerlibrary', ':librarycheckbox', ':customdialoglib'
